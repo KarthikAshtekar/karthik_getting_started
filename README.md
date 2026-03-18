@@ -72,14 +72,14 @@ My work focuses on building rigorous, reproducible data science pipelines: from 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vybhav72954&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vybhav72954&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KarthikAshtekar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikAshtekar&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vybhav72954&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KarthikAshtekar&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
